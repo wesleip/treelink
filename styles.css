@@ -1,0 +1,159 @@
+body {
+  margin: 4em 2em;
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;background-color:#000000;
+  background-style:flat;
+  background-image:url(assets/background.jpeg)
+}
+
+.tree {
+  padding-top: 30px;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  max-width: 800px;
+}
+.tree .username {
+  text-transform: none;
+  font-weight: 600;
+  font-size: 20px;
+  margin: 2em;
+  color: #fff;
+}
+.tree .links a {
+  margin: 0.75em auto;
+}
+.tree .footer {
+  margin: 2rem;
+}
+.tree .profile-pic {
+  width: 150px;
+  text-align: center;
+}
+a.btn {
+  background-color: #fff;
+}
+
+.letter{
+  color: white;
+  
+}
+
+.letter:hover{
+  color: white;
+}
+
+.btn {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.face {
+  border-color: #3B5999;
+  color: #3B5999;
+}
+
+.face:hover {
+  background-color: #3B5999;
+  color: white;
+}
+
+.yout{
+  border-color: #FF0000;
+  color: #FF0000;
+}
+
+.yout:hover{
+  background-color: #FF0000;
+  color: white;
+}
+
+.telegram {
+  border-color: #039BE5;
+  color: #039BE5;
+}
+
+.telegram:hover {
+  background-color: #039BE5;
+  color: white;
+}
+
+.linkedin{
+  border-color: #0077B7;
+  color: #0077B7;
+}
+
+.linkedin:hover{
+  background-color: #0077B7;
+  color: white;
+}
+
+.github{
+  border-color: #333;
+  color: #333;
+}
+
+.github:hover{
+  background-color: #333;
+  color: white;
+}
+
+.spotify{
+  border-color: #1DB954;
+  color: #1DB954;
+}
+
+.spotify:hover{
+  background-color: #1DB954;
+  color: white;
+}
+
+.discord{
+  border-color: #5865F2;
+  color: #5865F2;
+}
+
+.discord:hover{
+  background-color: #5865F2;
+  color: white;
+}
+
+.ebook {
+  border-color: rebeccapurple;
+  color: rebeccapurple;
+}
+
+.ebook:hover{
+  background-color: rebeccapurple;
+  color: white;
+}
+
+.temp {
+  border-color: #06d0ef;
+  color: #06d0ef;
+}
+
+.temp:hover{
+  background-color: #06d0ef;
+  color: white;
+}
+
+.comport {
+border-color: #da70d6;
+color: #da70d6;
+}
+
+.comport:hover{
+background-color: #da70d6;
+color: white;
+}
+
+.muted{
+  color: white;
+}
